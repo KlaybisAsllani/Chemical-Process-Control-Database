@@ -31,6 +31,6 @@ The Chemical Process Control Database is a web application created to provide de
 
 - Python 3.8+
 - Node.js 14+
-- Yarn or npm
+- npm
 - PostgreSQL
 
